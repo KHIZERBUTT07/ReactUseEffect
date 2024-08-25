@@ -98,7 +98,7 @@ function App() {
                 <h2 className="text-gray-900 title-font text-lg font-medium">
                   {data.title}
                 </h2>
-                <p className="mt-1">${data.price}</p>
+                <p className="mt-1">{data.price} Rs</p>
               </div>
             </div>
           </div>
